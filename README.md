@@ -1,4 +1,3 @@
-
 express-mongo-rest
 ==================
 
@@ -13,7 +12,7 @@ An example of a REST server using express and mongo. With a client.html file to 
 ### View the latestest from registry.npmjs.org
 `npm view <package-name> version`
 
-Fix your package.json, `heroku requires to define all packages and versions`! Else you have an exeption!
+Fix your package.json, `heroku requires to define all packages and versions`
 
 ###Deploy in heroku
 `heroku create --app your_app_name`
