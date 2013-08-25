@@ -9,10 +9,10 @@ An example of a REST server using express and mongo. With a client.html file to 
 `sudo npm install express`
 `sudo npm install mongoose`
 
-### View the latestest from registry.npmjs.org
+### Get versions for each module
 `npm view <package-name> version`
 
-Fix your package.json, `heroku requires to define all packages and versions`
+Fix your package.json to list the versions you'll be using, `From what I understand... heroku requires to define all packages and versions`
 
 ###Deploy in heroku
 `heroku create --app your_app_name`
