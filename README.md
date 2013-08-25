@@ -3,7 +3,7 @@ express-mongo-rest
 
 An example of a REST server using express and mongodb. With a client.html file to browse and make REST requests.
 
-##Step for running the server on Heroku
+##Steps for running the server on Heroku
 
 ### Install packages locally (need to create a directory called node_modules)
 `sudo npm install express`
