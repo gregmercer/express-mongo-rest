@@ -7,10 +7,12 @@ An example of a REST server using express and mongodb. With a client.html file t
 
 ### Install packages locally (need to create a directory called node_modules)
 `sudo npm install express`
+
 `sudo npm install mongoose`
 
 ### Get versions for each module
 `npm view express version`
+
 `npm view mongoose version`
 
 Fix your package.json to list the versions you'll be using, `From what I understand... heroku requires to define all packages and versions`
