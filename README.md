@@ -17,7 +17,7 @@ Fix your package.json to list the versions you'll be using, `From what I underst
 ###Deploy in heroku
 `heroku create --app your_app_name`
 
-`heroku addons:add mongolab `
+`heroku addons:add mongolab --app your_app_name`
 
 `heroku addons:open mongolab`
 
