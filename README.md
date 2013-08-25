@@ -1,7 +1,7 @@
 express-mongo-rest
 ==================
 
-An example of a REST server using express and mongo. With a client.html file to browse and make REST requests.
+An example of a REST server using express and mongodb. With a client.html file to browse and make REST requests.
 
 ##MongoDb Express nodejs and heroku rest server example
 
