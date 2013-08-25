@@ -32,7 +32,7 @@ Fix your package.json to list the versions you'll be using, `From what I underst
 
 `git commit -m 'test'`
 
-Much thanks to Thomas for the code found in client.html. His video tutorial covering backbone.js is well worth the watch.
+BTW... much thanks to Thomas for the code found in client.html. His video tutorial covering backbone.js is well worth the watch.
 
 http://backbonetutorials.com/
 
